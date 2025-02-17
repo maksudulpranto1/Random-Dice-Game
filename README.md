@@ -17,8 +17,7 @@ Before running the project, ensure you have the following installed:
 
 ## Installation & Running Instructions
 1. **Clone the Repository:**
-   git clone https:https://github.com/maksudulpranto1/Random-Dice-Game?tab=readme-ov-file
-   cd random-dice-game
+   git clone https:https://github.com/maksudulpranto1/Random-Dice-Game?tab=readme-ov-filee
    
 2. **Compile the Java Program:**
    go to your IDE (VISUAL STUDIO CODE) and open the exracted ZIP file. After that just run java. 
