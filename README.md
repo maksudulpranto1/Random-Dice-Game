@@ -21,7 +21,7 @@ Before running the project, ensure you have the following installed:
    cd random-dice-game
    
 2. **Compile the Java Program**
-   go to your IDE and open the exracted ZIP file. After that just run java 
+   go to your IDE (VISUAL STUDIO CODE) and open the exracted ZIP file. After that just run java. 
 
 ## How to Play
 1. Launch the application.
