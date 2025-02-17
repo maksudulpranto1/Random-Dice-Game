@@ -17,7 +17,7 @@ Before running the project, ensure you have the following installed:
 
 ## Installation & Running Instructions
 1. **Clone the Repository:**
-   git clone https://github.com/maksudulpranto1/dice-rolling-game.git
+   git clone https:https://github.com/maksudulpranto1/Random-Dice-Game?tab=readme-ov-file
    cd random-dice-game
    
 2. **Compile the Java Program:**
