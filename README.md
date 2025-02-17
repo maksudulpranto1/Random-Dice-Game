@@ -1,5 +1,4 @@
 # Random-Dice-Game
-# Dice Rolling Game
 
 ## Description
 The Dice Rolling Game is a simple Java-based GUI application where two players roll virtual dice to determine a winner. The game includes animated dice rolling, random number generation, and a result display. The game can be played multiple times by clicking the "Roll!" button.
@@ -18,20 +17,11 @@ Before running the project, ensure you have the following installed:
 
 ## Installation & Running Instructions
 1. **Clone the Repository**
-   ```sh
    git clone https://github.com/maksudulpranto1/dice-rolling-game.git
-   cd dice-rolling-game
-   ```
-
+   cd random-dice-game
+   
 2. **Compile the Java Program**
-   ```sh
-   javac DiceRollingGame.java
-   ```
-
-3. **Run the Application**
-   ```sh
-   java DiceRollingGame
-   ```
+   go to your IDE and open the exracted ZIP file. After that just run java 
 
 ## How to Play
 1. Launch the application.
