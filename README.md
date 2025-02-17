@@ -16,11 +16,11 @@ Before running the project, ensure you have the following installed:
 - Java Swing for GUI (comes with JDK)
 
 ## Installation & Running Instructions
-1. **Clone the Repository**
+1. **Clone the Repository:**
    git clone https://github.com/maksudulpranto1/dice-rolling-game.git
    cd random-dice-game
    
-2. **Compile the Java Program**
+2. **Compile the Java Program:**
    go to your IDE (VISUAL STUDIO CODE) and open the exracted ZIP file. After that just run java. 
 
 ## How to Play
